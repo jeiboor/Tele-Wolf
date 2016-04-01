@@ -244,6 +244,7 @@ function create_config( )
     "all",
     "leave_ban",
     "admin"
+    "addplug"
     },
     sudo_users = {160890821(our_id)},--Sudo users
     disabled_channels = {},
@@ -256,13 +257,13 @@ https://github.com/SEEDTEAM/TeleSeed
 Admins
 @MR_saf 
 
-@Tagsir_man_heh
+@soheyl_mafiam
 
 
 
 
 Our channel
-@Tele_plugins
+@SiS_team
 
 
 Creator : @MR_saf
@@ -442,6 +443,10 @@ will return group logs
 !banlist
 will return group ban list
 
+!addplugin (plugname)
+add a plugin <name> to bot
+فقط سودو میتواند 👆👆
+
 **U can use both "/" and "!" 
 
 
@@ -453,7 +458,7 @@ will return group ban list
 *Only owner can use res,setowner,promote,demote and log commands
 
 Creator : @MR_saf
-Channel : @Tele_plugins
+Channel : @SiS_team
 
 ]]
   }
