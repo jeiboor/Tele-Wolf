@@ -244,9 +244,10 @@ function create_config( )
     "all",
     "leave_ban",
     "admin"
-    "addplug"
+    "addplug" 
+    "launch"
     },
-    sudo_users = {160890821(our_id)},--Sudo users
+    sudo_users = {160890821},(our_id)},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[Teleseed v2 - Open Source
@@ -255,9 +256,9 @@ An advance Administration bot based on yagop/telegram-bot
 https://github.com/SEEDTEAM/TeleSeed
 
 Admins
-@MR_saf 
+@Xx_hacker_boy_xX
 
-@soheyl_mafiam
+@Xx_nfrat_xX
 
 
 
@@ -266,7 +267,8 @@ Our channel
 @SiS_team
 
 
-Creator : @MR_saf
+Creator : @Xx_hacker_boy_xX
+
 ]],
     help_text_realm = [[
 Realm Commands:
@@ -342,7 +344,9 @@ This command will send text to [group_id]
 
 *Only admins and sudo can use res, setowner, commands
 
-Creator : @MR_saf
+Creator : @Xx_hacker_boy_xX
+Channel : @sis_team
+
 ]],
     help_text = [[
 Commands list :
@@ -457,7 +461,7 @@ add a plugin <name> to bot
 
 *Only owner can use res,setowner,promote,demote and log commands
 
-Creator : @MR_saf
+Creator : @Xx_hacker_boy_xX
 Channel : @SiS_team
 
 ]]
