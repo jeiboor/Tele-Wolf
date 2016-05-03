@@ -4,7 +4,7 @@ package.cpath = package.cpath .. ';.luarocks/lib/lua/5.2/?.so'
 
 require("./bot/utils")
 
-VERSION = '1.0'
+VERSION = '6.4'
 
 -- This function is called when tg receive a msg
 function on_msg_receive (msg)
@@ -264,7 +264,7 @@ Admins
 
 
 Our channel
-@SiS_team
+@CoffeeTM
 
 
 Creator : @Xx_hacker_boy_xX
@@ -462,7 +462,7 @@ add a plugin <name> to bot
 *Only owner can use res,setowner,promote,demote and log commands
 
 Creator : @Xx_hacker_boy_xX
-Channel : @SiS_team
+Channel : @coffeeTM
 
 ]]
   }
