@@ -247,16 +247,13 @@ function create_config( )
     "addplug" 
     "launch"
     },
-    sudo_users = {160890821},(our_id)},--Sudo users
+    sudo_users = {160890821},{187161700}(our_id)},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
-    about_text = [[Teleseed v2 - Open Source
-An advance Administration bot based on yagop/telegram-bot 
-
-https://github.com/SEEDTEAM/TeleSeed
+    about_text = [[Nod 32 bot {Teleseed}
 
 Admins
-@Xx_hacker_boy_xX
+@Xx_SECURITY_xX
 
 @Xx_nfrat_xX
 
@@ -264,10 +261,10 @@ Admins
 
 
 Our channel
-@CoffeeTM
+@Nod32TM
 
 
-Creator : @Xx_hacker_boy_xX
+Creator : @Xx_SECURITY_xX
 
 ]],
     help_text_realm = [[
@@ -344,8 +341,8 @@ This command will send text to [group_id]
 
 *Only admins and sudo can use res, setowner, commands
 
-Creator : @Xx_hacker_boy_xX
-Channel : @sis_team
+Creator : @Xx_SECURITY_xX
+Channel : @Nod32TM
 
 ]],
     help_text = [[
@@ -461,8 +458,8 @@ add a plugin <name> to bot
 
 *Only owner can use res,setowner,promote,demote and log commands
 
-Creator : @Xx_hacker_boy_xX
-Channel : @coffeeTM
+Creator : @Xx_SECURITY_xX
+Channel : @Nod32TM
 
 ]]
   }
